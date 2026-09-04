@@ -27,18 +27,18 @@ You can test the trained model directly via Google Teachable Machine:
 
 ## 📸 Test Results & Screenshots
 
-### 1️⃣ Cup Classification (100% Confidence)
-![Cup Test Result](https://github.com/salmasayedd/smart-object-classifier-ai-ambassadors/blob/main/image_4.png?raw=true)
+### 1️⃣ Book Classification (100% Confidence)
+
 
 ---
 
-### 2️⃣ Mobile Classification (100% Confidence)
-![Mobile Test Result](https://github.com/salmasayedd/smart-object-classifier-ai-ambassadors/blob/main/image_5.png?raw=true)
+### 2️⃣ Cup Classification (100% Confidence)
+
 
 ---
 
-### 3️⃣ Book Classification (100% Confidence)
-![Book Test Result](https://github.com/salmasayedd/smart-object-classifier-ai-ambassadors/blob/main/image_3.png?raw=true)
+### 3️⃣ Mobile Classification (100% Confidence)
+
 
 ---
 
